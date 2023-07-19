@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6{
 }
 p {
     font-family: system-ui;
-    font-weight: bold;
+    font-weight: 300px;
 }
 input{
     border: none;
